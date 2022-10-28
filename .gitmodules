@@ -30,7 +30,7 @@
 	url = https://github.com/sphair/ClanLib
 [submodule "Extern/rewolf-wow64ext"]
 	path = Extern/rewolf-wow64ext
-	url = https://github.com/mq1n/rewolf-wow64ext
+	url = https://github.com/rwfpl/rewolf-wow64ext
 [submodule "Extern/ReflectiveDLLRefresher"]
 	path = Extern/ReflectiveDLLRefresher
 	url = https://github.com/CylanceVulnResearch/ReflectiveDLLRefresher
